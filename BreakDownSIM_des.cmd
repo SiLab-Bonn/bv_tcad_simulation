@@ -1,4 +1,4 @@
-*************************************************************
+**************************************************************************
 * This file presents a model script for Breakdown simulations
 *	Author: Sinuo Zhang
 * 	Last Modified:Fri 04 Mar 2022 04:07:38 PM CET
@@ -16,7 +16,7 @@
 *		> Model		: 	Avalanche generation model -> name
 *		> Temp		:	Temperature of the device (K)
 *		> transport :	Transportation model -> see code
-*************************************************************
+**************************************************************************
 
 * define the maximum ramping current for the break criteria, used in "Math" section
 #define _Imax_ 2.0e-9
